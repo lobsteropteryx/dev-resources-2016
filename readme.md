@@ -1,4 +1,5 @@
 ## Blog posts
+- [Uncle Bob](https://blog.8thlight.com/uncle-bob/archive.html)
 
 ## Podcasts
 - [Javascript Jabber](https://devchat.tv/js-jabber/)
@@ -9,5 +10,6 @@
 
 ## Videos
 - [Bob Martin, Clean Code](http://www.cleancoders.com/episode/clean-code-episode-1/show)
+- [Bob Martin, "Demanding Professionalism in Software Development"](https://www.youtube.com/watch?v=p0O1VVqRSK0)
 - [Jez Humble, "What is Value?"](https://www.youtube.com/watch?v=ESOaDiv3lXA&feature=youtu.be&t=40m54s)
 - [Steve Sanderson, "Architecting large Single Page Applications with Knockout.js"](https://vimeo.com/97519516) 
