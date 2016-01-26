@@ -1,9 +1,12 @@
 ## Blog posts
 - [Uncle Bob](https://blog.8thlight.com/uncle-bob/archive.html)
+- [Brian Timoney](http://mapbrief.com/)
+- [Rene Rubalcava](http://odoe.net/blog)
 
 ## Podcasts
 - [Javascript Jabber](https://devchat.tv/js-jabber/)
 - [Changelog](https://changelog.com/)
+- [Software Engineering Radio](http://www.se-radio.net/)
 
 ## Books
 - [Bob Martin, Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1453120488&sr=8-1&keywords=clean+code)
