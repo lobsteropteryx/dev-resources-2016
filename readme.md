@@ -2,6 +2,7 @@
 - [Uncle Bob](https://blog.8thlight.com/uncle-bob/archive.html)
 - [Brian Timoney](http://mapbrief.com/)
 - [Rene Rubalcava](http://odoe.net/blog)
+- [DbProviderFactory](http://www.codeproject.com/Articles/55890/Don-t-hard-code-your-DataProviders)
 
 ## Podcasts
 - [Javascript Jabber](https://devchat.tv/js-jabber/)
