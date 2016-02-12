@@ -11,6 +11,7 @@
 
 ## Books
 - [Bob Martin, Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1453120488&sr=8-1&keywords=clean+code)
+- [Henrik Joretag, Human Javascript](http://read.humanjavascript.com)
 
 ## Videos
 - [Bob Martin, Clean Code](http://www.cleancoders.com/episode/clean-code-episode-1/show)
