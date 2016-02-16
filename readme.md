@@ -3,6 +3,7 @@
 - [Brian Timoney](http://mapbrief.com/)
 - [Rene Rubalcava](http://odoe.net/blog)
 - [DbProviderFactory](http://www.codeproject.com/Articles/55890/Don-t-hard-code-your-DataProviders)
+- [Refactoring Databases: Evolutionary Database Design](http://databaserefactoring.com/)
 
 ## Podcasts
 - [Javascript Jabber](https://devchat.tv/js-jabber/)
