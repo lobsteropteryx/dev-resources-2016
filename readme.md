@@ -20,3 +20,6 @@
 - [Jez Humble, "What is Value?"](https://www.youtube.com/watch?v=ESOaDiv3lXA&feature=youtu.be&t=40m54s)
 - [Steve Sanderson, "Architecting large Single Page Applications with Knockout.js"](https://vimeo.com/97519516) 
 - [Topher Timzen and Jon McCoy, "Security for the Developer: Building and Breaking Layered Defense"](https://vimeo.com/131637368)
+
+## React
+http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/
