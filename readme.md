@@ -23,3 +23,6 @@
 
 ## React
 http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/
+
+## Typescript
+[Definitions](https://www.stevefenton.co.uk/2013/01/complex-typescript-definitions-made-easy/)
