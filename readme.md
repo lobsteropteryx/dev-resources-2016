@@ -5,7 +5,7 @@
 - [DbProviderFactory](http://www.codeproject.com/Articles/55890/Don-t-hard-code-your-DataProviders)
 - [Refactoring Databases: Evolutionary Database Design](http://databaserefactoring.com/)
 - [Working With Web Appbuilder in Larger Teams – Part 1: Basic Workflow] (http://gisinc.com/uncategorized/working-with-web-appbuilder-in-larger-teams-part-1-basic-workflow)
--[Working With Web Appbuilder in Larger Teams – Part 2: Code Reuse and Dependency Management](http://gisinc.com/uncategorized/working-with-web-appbuilder-in-larger-teams-part-2-code-reuse-and-dependency-management)
+- [Working With Web Appbuilder in Larger Teams – Part 2: Code Reuse and Dependency Management](http://gisinc.com/uncategorized/working-with-web-appbuilder-in-larger-teams-part-2-code-reuse-and-dependency-management)
 
 ## Podcasts
 - [Javascript Jabber](https://devchat.tv/js-jabber/)
