@@ -25,4 +25,5 @@
 - [Topher Timzen and Jon McCoy, "Security for the Developer: Building and Breaking Layered Defense"](https://vimeo.com/131637368)
 
 ## React
-http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/
+- http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/
+- [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
