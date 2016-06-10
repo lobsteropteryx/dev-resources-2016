@@ -28,6 +28,7 @@
 - [SFC vs Classes](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/)
 - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [Container vs. Presentational Components](- https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.l4otuuhlx)
+- [The Redux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU)
 
 ## Typescript
 - [Definitions](https://www.stevefenton.co.uk/2013/01/complex-typescript-definitions-made-easy/)
